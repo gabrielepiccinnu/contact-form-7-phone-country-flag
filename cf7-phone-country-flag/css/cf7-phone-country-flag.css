@@ -1,0 +1,16 @@
+/* Styles for the CF7 Country Flag for Phone Fields plugin */
+.cf7-country-flag-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.cf7-country-flag-selector {
+    margin-right: 10px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.cf7-country-flag-input {
+    padding: 5px;
+    font-size: 16px;
+}
